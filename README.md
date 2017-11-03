@@ -25,7 +25,7 @@ Various web scrapers for research and fun:
 - [MRIP NOAA](http://www.st.nmfs.noaa.gov/recreational-fisheries/MRIP/mrip-project)
 - [Web of Science](http://ipscience-help.thomsonreuters.com/LAMRService/WebServiceOperationsGroup/requestAPIWoS.html)
 - [ST NMFS NOAA](https://www.st.nmfs.noaa.gov/)
-- [NCDC NOAA](ftp://data.ncdc.noaa.gov/cdr/solar-irradiance/tsi/)
+- [NCDC NOAA](https://www.ncdc.noaa.gov/cdr/atmospheric/total-solar-irradiance)
 - [Open Secrets](https://www.opensecrets.org/resources/create/apis.php)
 - [Resident Advisor](https://www.residentadvisor.net/reviews.aspx?format=single)
 - [Rate My Professors](http://www.ratemyprofessors.com/)
