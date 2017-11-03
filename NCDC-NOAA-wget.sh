@@ -1,0 +1,1 @@
+wget -r ftp://data.ncdc.noaa.gov/cdr/solar-irradiance/tsi/
