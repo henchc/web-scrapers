@@ -31,3 +31,5 @@ Various web scrapers for research and fun:
 - [Rate My Professors](http://www.ratemyprofessors.com/)
 - [LARRP](http://lanic.utexas.edu/larrp/pm/sample2/)
 - [Wiktionary](https://de.wiktionary.org/)
+- [Wikipedia Revision History API](https://www.mediawiki.org/wiki/API:Revisions)
+- [Big, Allied and Dangerous BAAD](http://www.start.umd.edu/baad/database)
