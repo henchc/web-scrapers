@@ -35,3 +35,4 @@ Various web scrapers for research and fun:
 - [Big, Allied and Dangerous BAAD](http://www.start.umd.edu/baad/database)
 - [Rio Grande Games](http://riograndegames.com/)
 - [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/)
+- [DataSF Fire Incidents API](https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric)
