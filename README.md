@@ -34,3 +34,4 @@ Various web scrapers for research and fun:
 - [Wikipedia Revision History API](https://www.mediawiki.org/wiki/API:Revisions)
 - [Big, Allied and Dangerous BAAD](http://www.start.umd.edu/baad/database)
 - [Rio Grande Games](http://riograndegames.com/)
+- [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/)
