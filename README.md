@@ -36,3 +36,4 @@ Various web scrapers for research and fun:
 - [Rio Grande Games](http://riograndegames.com/)
 - [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/)
 - [DataSF Fire Incidents API](https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric)
+- [Google Geocoding API Searches](https://developers.google.com/maps/documentation/geocoding/start)
