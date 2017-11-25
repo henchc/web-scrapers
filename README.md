@@ -37,3 +37,4 @@ Various web scrapers for research and fun:
 - [Bayerische Staatsbibliothek](https://opacplus.bsb-muenchen.de/)
 - [DataSF Fire Incidents API](https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric)
 - [Google Geocoding API Searches](https://developers.google.com/maps/documentation/geocoding/start)
+- [Board Game Geek](https://boardgamegeek.com/)
