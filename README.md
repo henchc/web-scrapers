@@ -39,3 +39,4 @@ Various web scrapers for research and fun:
 - [Google Geocoding API Searches](https://developers.google.com/maps/documentation/geocoding/start)
 - [Board Game Geek](https://boardgamegeek.com/)
 - [Data Mart Basic Skills](http://datamart.cccco.edu/Outcomes/BasicSkills_Cohort_Tracker.aspx)
+- [Public Access to Court Electronic Records (PACER)](https://www.pacer.gov/)
