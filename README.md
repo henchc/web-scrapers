@@ -40,3 +40,4 @@ Various web scrapers for research and fun:
 - [Board Game Geek](https://boardgamegeek.com/)
 - [Data Mart Basic Skills](http://datamart.cccco.edu/Outcomes/BasicSkills_Cohort_Tracker.aspx)
 - [Public Access to Court Electronic Records (PACER)](https://www.pacer.gov/)
+- [SF Planning Commission Minutes](http://default.sfplanning.org/meetingarchive/planning_dept/sf-planning.org/index.aspx-page=1000.html)
