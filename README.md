@@ -41,3 +41,4 @@ Various web scrapers for research and fun:
 - [Data Mart Basic Skills](http://datamart.cccco.edu/Outcomes/BasicSkills_Cohort_Tracker.aspx)
 - [Public Access to Court Electronic Records (PACER)](https://www.pacer.gov/)
 - [SF Planning Commission Minutes](http://default.sfplanning.org/meetingarchive/planning_dept/sf-planning.org/index.aspx-page=1000.html)
+- [American Diabetes Association ERP Resources](https://professional.diabetes.org/erp_list?field_erp_state_value=NY)
